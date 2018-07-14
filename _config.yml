@@ -1,1 +1,19 @@
-theme: jekyll-theme-minimal
+
+# exclude line:
+
+exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
+highlighter: rouge # i persoanlly have no idea what this does. It was in a tutorial
+# put it there, i will figure it out later i promise
+
+title : biabbiassago hhtp-ing
+author :  
+  name : Bianca Brusco
+  email : bianca.busco@gmail.com
+  github : biabbiasago
+  twitter : nil
+  feedburner : nil
+
+
+  production_url : https://biabbiassago.github.io/
+
+  
