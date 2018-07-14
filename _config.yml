@@ -1,10 +1,4 @@
 
-# exclude line:
-
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "License.md"]
-highlighter: rouge # i persoanlly have no idea what this does. It was in a tutorial
-# put it there, i will figure it out later i promise
-
 title : Bianca from Assago
 author :  
   name : Bianca Brusco
